@@ -23,7 +23,7 @@
 
 ## Projects
 
--
+- [BookStoreGUI](https://github.com/DochYaka/BookStoreGUI) — programming GUI for BookStore
 -
 
 ---
