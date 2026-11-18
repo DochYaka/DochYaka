@@ -7,13 +7,6 @@
 />
 
 ### C# Backend Developer
-
-
-Developing backend systems with a focus on  
-reliability and performance
-
-
-
 [Software Engineer @ ...](https://github.com/DochYaka)
 
 
