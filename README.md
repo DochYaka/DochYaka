@@ -1,6 +1,6 @@
-# Привет, я Дмитрий 👋
+# Hi, I'm Dmitriy 👋
 
-## 🛠️ Технологии
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -10,18 +10,18 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
 
-## 📌 Проекты
+## 📌 Projects
 
-- [LabsPROG](https://github.com/DochYaka/LabsPROG) — учебные лабораторные работы
-- [LabsCM](https://github.com/DochYaka/LabsCM) — вычислительные методы
+- [LabsPROG](https://github.com/DochYaka/LabsPROG) — programming lab assignments
+- [LabsCM](https://github.com/DochYaka/LabsCM) — computational methods
 
-## 📫 Связаться со мной
+## 📫 Connect with me
 
 <p align="left">
   <a href="https://github.com/DochYaka">
     <img src="https://img.shields.io/badge/GitHub-DochYaka-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:dmitrijkiselev194@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Написать-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
