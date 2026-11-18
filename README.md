@@ -23,8 +23,8 @@
 
 ## Projects
 
-- [LabsPROG](https://github.com/DochYaka/LabsPROG) — programming lab assignments
-- [LabsCM](https://github.com/DochYaka/LabsCM) — computational methods
+-
+-
 
 ---
 
