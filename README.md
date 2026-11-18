@@ -1,15 +1,6 @@
 # Hi, I'm Dmitriy
 
-<img
-  align="right"
-  src="https://media1.tenor.com/m/Nl7ofqrwNjwAAAAd/cat-kitty.gif"
-  width="150"
-/>
-
 ### C# Backend Developer
-
-[Software Engineer @ ...](https://github.com/DochYaka)
-
 
 ## Tech Stack
 
