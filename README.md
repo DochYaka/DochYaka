@@ -1,40 +1,65 @@
-# Hi, I'm Dmitriy 👋
+# Hi, I'm Dmitriy
 
-## 🛠️ Tech Stack
+<img
+  align="right"
+  src="https://media1.tenor.com/m/Nl7ofqrwNjwAAAAd/cat-kitty.gif"
+  width="150"
+/>
+
+### C# Backend Developer
+
+
+Developing backend systems with a focus on  
+reliability and performance
+
+
+
+[Software Engineer @ ...](https://github.com/DochYaka)
+
+
+## Tech Stack
 
 ### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=1a1a1a" alt="C#" />
+<p>
+  <img src="https://img.shields.io/badge/C%23-161B22?style=for-the-badge&logo=c-sharp&logoColor=239120" /><img src="https://img.shields.io/badge/.NET-161B22?style=for-the-badge&logo=dotnet&logoColor=512BD4" /><img src="https://img.shields.io/badge/ASP.NET_Core-161B22?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
 </p>
 
 ### Data
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a" alt="PostgreSQL" />
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" /><img src="https://img.shields.io/badge/Entity_Framework-161B22?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
 </p>
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1a1a" alt="JavaScript" />
+### Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" /><img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624" /><img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 </p>
 
-### Tools & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1a1a" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white&labelColor=1a1a1a" alt="Swagger" />
+### Testing & Tools
+<p>
+  <img src="https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=FF6C37" /><img src="https://img.shields.io/badge/Swagger-161B22?style=for-the-badge&logo=swagger&logoColor=85EA2D" /><img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
-## 📌 Projects
+## Projects
 
-## 📫 Connect with me
+
+## GitHub
+
+<div>
 
 <p align="center">
-  <a href="https://github.com/DochYaka">
-    <img src="https://img.shields.io/badge/GitHub-DochYaka-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
-  </a>
-  <a href="mailto:dmitrijkiselev194@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" />
-  </a>
+  <img width="54%"
+       src="https://github-stats-extended.vercel.app/api?username=DochYaka&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="42%"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=DochYaka&layout=compact&hide_border=true&theme=transparent" />
 </p>
+
+
+---
+
+<div align="center">
+
+### Contact with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+
+</div>
