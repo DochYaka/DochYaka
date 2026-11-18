@@ -30,8 +30,16 @@
 
 ## Projects
 
+- [LabsPROG](https://github.com/DochYaka/LabsPROG) — programming lab assignments
+- [LabsCM](https://github.com/DochYaka/LabsCM) — computational methods
 
----
+<div align="center">
+
+### Contact with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DochYaka)
+
+</div>
 
 <div align="center">
 
