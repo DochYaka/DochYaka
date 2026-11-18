@@ -6,11 +6,11 @@
   width="150"
 />
 
-### C# Backend Developer
+<h1 style="border-bottom: none;">C# Backend Developer</h2>
 [Software Engineer @ ...](https://github.com/DochYaka)
 
 
-## Tech Stack
+<h2 style="border-bottom: none;">Tech Stack</h2>
 
 ### Backend
 <p>
