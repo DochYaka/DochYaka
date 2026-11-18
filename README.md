@@ -21,7 +21,8 @@ reliability and performance
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/C%23-161B22?style=for-the-badge&logo=c-sharp&logoColor=239120" /><img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/C%23-161B22?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="C#" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 </p>
 
 ### Infrastructure
@@ -36,8 +37,6 @@ reliability and performance
 
 ## Projects
 
-- [LabsPROG](https://github.com/DochYaka/LabsPROG) — programming lab assignments
-- [LabsCM](https://github.com/DochYaka/LabsCM) — computational methods
 
 ---
 
@@ -45,6 +44,6 @@ reliability and performance
 
 ### Contact with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DochYaka)
 
 </div>
